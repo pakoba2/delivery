@@ -9,7 +9,7 @@ fi
 
 git add --all
 git commit -m "$message"
-git push origin
+git push origin master
 
 
 
